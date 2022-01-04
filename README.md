@@ -6,3 +6,6 @@ Part of the chanllenges of geeksforgeeks.org
 Technologies used:
 HTML5
 CSS3
+Thanks to Vaibhav Kumar Mittal
+https://codepen.io/vaibhavmittal18
+
